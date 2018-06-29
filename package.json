@@ -1,0 +1,16 @@
+{
+  "name": "http-demo",
+  "version": "1.0.1",
+  "description": "Basic demo to use https in node with express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Parveen Kumar",
+  "license": "ISC"
+}
